@@ -1,0 +1,28 @@
+name: TMS (Thérapie Manuelle Systémique)
+favicon: null
+layout_spectrum: 0.5777741635683924
+typography_spectrum: 0.4413065016269684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7878358121961355
+  lightness: 0.6338894478976727
+  saturation: 0.08423039061017334
+  rhythmicContrast: 0.8145300496835262
+purpose: []
